@@ -8,6 +8,7 @@
 
 #import "PicnicViewController.h"
 #import <AudioToolbox/AudioToolbox.h>
+#import <QuartzCore/QuartzCore.h>
 
 @implementation PicnicViewController
 @synthesize basketTop;
@@ -215,9 +216,9 @@
         }];
     
     CGRect napkinTopFrame = napkinTop.frame;
-    napkinTopFrame.origin.y = -napkinTopFrame.size.height;    
+    napkinTopFrame.origin.y = -napkinTopFrame.size.height-20;    
     CGRect napkinBottomFrame = napkinBottom.frame;
-    napkinBottomFrame.origin.y = self.view.bounds.size.height;
+    napkinBottomFrame.origin.y = self.view.bounds.size.height+20;
 
     [UIView animateWithDuration:0.7
                           delay:1.2

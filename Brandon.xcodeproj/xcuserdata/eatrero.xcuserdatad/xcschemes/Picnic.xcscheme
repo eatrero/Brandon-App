@@ -14,9 +14,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "Picnic.app"
-               BlueprintName = "Picnic"
-               ReferencedContainer = "container:Picnic.xcodeproj">
+               BuildableName = "Brandon.app"
+               BlueprintName = "Brandon"
+               ReferencedContainer = "container:Brandon.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -40,9 +40,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Picnic.app"
-            BlueprintName = "Picnic"
-            ReferencedContainer = "container:Picnic.xcodeproj">
+            BuildableName = "Brandon.app"
+            BlueprintName = "Brandon"
+            ReferencedContainer = "container:Brandon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Picnic.app"
-            BlueprintName = "Picnic"
-            ReferencedContainer = "container:Picnic.xcodeproj">
+            BuildableName = "Brandon.app"
+            BlueprintName = "Brandon"
+            ReferencedContainer = "container:Brandon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
